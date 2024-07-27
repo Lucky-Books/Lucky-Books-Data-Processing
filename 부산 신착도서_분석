@@ -1,0 +1,16 @@
+- shelf_date : 도서관에 책이 배치된 날짜 (서가에 책이 놓인 시점)
+- title_info : 책 제목
+- vol_title:
+- image : 책 표지 이미지 url
+- book_type : 책의 유형
+- reg_date : 책이 도서관 시스템에 등록된 날짜
+- publisher : 출판사
+- author : 저자 정보
+- price : 가격
+- shelf_loc_name : 책이 있는 도서관 위치
+- page : 책 페이지 수
+- acq_year : 구입 연도
+- isbn : ISBN 번호 
+→ 각 출판사가 출판한 각각의 도서에 국제적으로 표전화하여 붙이는 고유의 도서번호
+- lib_name : 책이 있는 도서관 이름
+- pub_name : 책 출판 연도
